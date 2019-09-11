@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uphaegais.boromak.com/sitemap.xml
